@@ -1,0 +1,34 @@
+.main{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+h3,h1,h4{
+    text-align: center;
+}
+
+body{
+    display: block;
+    background-color: #393E46;
+}
+
+h3,h4{
+    font-size: xx-large;
+    font-family: "Indie Flower", cursive;
+}
+
+h3{
+    color: #4ECCA3;
+}
+
+h4{
+    color: azure;
+}
+
+h1{
+    font-size: 80px;
+    font-family: "Lobster", sans-serif;
+    color: #4ECCA3;
+    text-shadow: 5px 0 #232931;
+}
